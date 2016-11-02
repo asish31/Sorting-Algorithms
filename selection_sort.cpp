@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-typedef int DataType;
+//typedef int DataType;
 
 void SelectionSort(DataType * InputArray, int size, bool isDescend)
 {
