@@ -1,4 +1,5 @@
 #include "stdio.h"
+#include "define.h"
 #include "selection_sort.cpp"
 
 //typedef the array type to sort as DataType
