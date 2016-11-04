@@ -39,7 +39,7 @@ void SelectionSort(DataType * InputArray, int size, bool isDescend)
 //return SortedArray;;
 
 }
-
+/*
 void SelectionSort(LinkedType *Root,bool isDescend)		//For linked List sorting
 {
   LinkedType * PositionObj= Root;
@@ -94,5 +94,5 @@ void SelectionSort(LinkedType *Root,bool isDescend)		//For linked List sorting
 }
 
 }
-
+*/
 
